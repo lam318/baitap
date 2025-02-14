@@ -17,7 +17,7 @@ void bai2() {
 void bai3() {
     string name;
     cin.ignore();
-    cout << "Nhap ten: ";s
+    cout << "Nhap ten: ";
     getline(cin, name);
     cout << "Ten cua ban: " << name << endl;
 }
